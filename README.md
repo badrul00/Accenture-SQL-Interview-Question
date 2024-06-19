@@ -1,1 +1,1 @@
-# Accenture-SQL-Interview-Question
+# Database Case Sensitivity vs Insensitivity
